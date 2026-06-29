@@ -1,0 +1,27 @@
+package main
+
+import "fmt"
+
+var middleName = "Blessing"
+
+func main() {
+	// var age int
+	// var name String = "Emmanuel"
+	// var name1 String = "Eseoghene"
+	// count := 10
+	// lastName := "Temiede"
+	middleName := "Blessing"
+	fmt.Println(middleName)
+
+	// Default Tyoes
+	// Numeric Type: 0
+	// Boolean Tyupe: false
+	// String Type: ""
+	// Pointers, Slices, Maps, functions and struct: nil
+
+}
+
+func printName() {
+	firstName := "Chinonso"
+	fmt.Println(firstName)
+}
